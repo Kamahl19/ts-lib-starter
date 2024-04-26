@@ -1,0 +1,28 @@
+# dependencies
+node_modules
+
+# tests
+coverage
+
+# vite
+dist
+
+# ide
+.idea
+
+# misc
+.DS_Store
+
+# debug
+logs
+*.log
+npm-debug.log*
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+# eslint
+.eslintcache
